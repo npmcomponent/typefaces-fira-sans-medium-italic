@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Fira Sans';
+  src: url('fonts/fira-sans-medium-italic.eot');
+  src: url('fonts/fira-sans-medium-italic.eot?#iefix') format('embedded-opentype'),
+       url('fonts/fira-sans-medium-italic.woff') format('woff'),
+       url('fonts/fira-sans-medium-italic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
