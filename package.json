@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-fira-sans-medium-italic",
+  "description": "The Fira Sans Medium Italic typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
